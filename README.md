@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, and welcome to my GitHub! Through my degree program, I'm currently learning about advanced operating systems as well as high performance computer architecture. I'll have some new related respositories here soon, but until then please explore any of my current public projects. Enjoy! :penguin:
 
 <!--
 **sidsherrill1/sidsherrill1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
