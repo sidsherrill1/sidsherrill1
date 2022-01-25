@@ -1,5 +1,5 @@
 ### Hi, and welcome to my GitHub! :penguin:
-Through my MSCS degree program at Georgia Tech, I'm currently learning about Embedded Systems and Software Development Processes. I'll have some new related respositories here soon, but until then please explore any of my current public projects. Enjoy!
+Through my MSCS degree program at Georgia Tech, I'm currently learning about Embedded Systems and Software Development Processes. I'll have some new related respositories here soon, but until then please explore any of my current public projects. Thanks for stopping by!
 
 <!--
 **sidsherrill1/sidsherrill1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
